@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{410268CE-F5E6-489E-BDBB-F6744E8293B9}|Controlador\\Controlador.csproj|c:\\users\\w10-pc\\onedrive\\escritorio\\proyecto\\starcrewmvcv7\\starcrewmvcv7\\starcrewmvc\\controlador\\controlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{410268CE-F5E6-489E-BDBB-F6744E8293B9}|Controlador\\Controlador.csproj|solutionrelative:controlador\\controlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACD9164-EAF9-4A78-8D6C-3024C93F23FF}|Modelo\\Modelo.csproj|c:\\users\\w10-pc\\onedrive\\escritorio\\proyecto\\starcrewmvcv7\\starcrewmvcv7\\starcrewmvc\\modelo\\modelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACD9164-EAF9-4A78-8D6C-3024C93F23FF}|Modelo\\Modelo.csproj|solutionrelative:modelo\\modelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B0EDBD-C226-4E0F-8D62-4AD2AE2C1E8C}|StarCrewMVC\\StarCrewMVC.csproj|C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\starcrewmvc\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B0EDBD-C226-4E0F-8D62-4AD2AE2C1E8C}|StarCrewMVC\\StarCrewMVC.csproj|solutionrelative:starcrewmvc\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B0EDBD-C226-4E0F-8D62-4AD2AE2C1E8C}|StarCrewMVC\\StarCrewMVC.csproj|C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\starcrewmvc\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B0EDBD-C226-4E0F-8D62-4AD2AE2C1E8C}|StarCrewMVC\\StarCrewMVC.csproj|solutionrelative:starcrewmvc\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B0EDBD-C226-4E0F-8D62-4AD2AE2C1E8C}|StarCrewMVC\\StarCrewMVC.csproj|c:\\users\\w10-pc\\onedrive\\escritorio\\proyecto\\starcrewmvcv7\\starcrewmvcv7\\starcrewmvc\\starcrewmvc\\ucmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B0EDBD-C226-4E0F-8D62-4AD2AE2C1E8C}|StarCrewMVC\\StarCrewMVC.csproj|solutionrelative:starcrewmvc\\ucmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B0EDBD-C226-4E0F-8D62-4AD2AE2C1E8C}|StarCrewMVC\\StarCrewMVC.csproj|C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\starcrewmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B0EDBD-C226-4E0F-8D62-4AD2AE2C1E8C}|StarCrewMVC\\StarCrewMVC.csproj|solutionrelative:starcrewmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B0EDBD-C226-4E0F-8D62-4AD2AE2C1E8C}|StarCrewMVC\\StarCrewMVC.csproj|C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\starcrewmvc\\ucmisiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B0EDBD-C226-4E0F-8D62-4AD2AE2C1E8C}|StarCrewMVC\\StarCrewMVC.csproj|solutionrelative:starcrewmvc\\ucmisiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B0EDBD-C226-4E0F-8D62-4AD2AE2C1E8C}|StarCrewMVC\\StarCrewMVC.csproj|C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\starcrewmvc\\ucmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B0EDBD-C226-4E0F-8D62-4AD2AE2C1E8C}|StarCrewMVC\\StarCrewMVC.csproj|solutionrelative:starcrewmvc\\ucmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B0EDBD-C226-4E0F-8D62-4AD2AE2C1E8C}|StarCrewMVC\\StarCrewMVC.csproj|C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\starcrewmvc\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90B0EDBD-C226-4E0F-8D62-4AD2AE2C1E8C}|StarCrewMVC\\StarCrewMVC.csproj|solutionrelative:starcrewmvc\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B0EDBD-C226-4E0F-8D62-4AD2AE2C1E8C}|StarCrewMVC\\StarCrewMVC.csproj|C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\starcrewmvc\\uchistorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90B0EDBD-C226-4E0F-8D62-4AD2AE2C1E8C}|StarCrewMVC\\StarCrewMVC.csproj|solutionrelative:starcrewmvc\\uchistorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B0EDBD-C226-4E0F-8D62-4AD2AE2C1E8C}|StarCrewMVC\\StarCrewMVC.csproj|C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\starcrewmvc\\uchistorial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B0EDBD-C226-4E0F-8D62-4AD2AE2C1E8C}|StarCrewMVC\\StarCrewMVC.csproj|solutionrelative:starcrewmvc\\uchistorial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B0EDBD-C226-4E0F-8D62-4AD2AE2C1E8C}|StarCrewMVC\\StarCrewMVC.csproj|C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\starcrewmvc\\uchistorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B0EDBD-C226-4E0F-8D62-4AD2AE2C1E8C}|StarCrewMVC\\StarCrewMVC.csproj|solutionrelative:starcrewmvc\\uchistorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B0EDBD-C226-4E0F-8D62-4AD2AE2C1E8C}|StarCrewMVC\\StarCrewMVC.csproj|C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\starcrewmvc\\ucmisiones.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B0EDBD-C226-4E0F-8D62-4AD2AE2C1E8C}|StarCrewMVC\\StarCrewMVC.csproj|solutionrelative:starcrewmvc\\ucmisiones.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B0EDBD-C226-4E0F-8D62-4AD2AE2C1E8C}|StarCrewMVC\\StarCrewMVC.csproj|C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\starcrewmvc\\ucmisiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90B0EDBD-C226-4E0F-8D62-4AD2AE2C1E8C}|StarCrewMVC\\StarCrewMVC.csproj|solutionrelative:starcrewmvc\\ucmisiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B0EDBD-C226-4E0F-8D62-4AD2AE2C1E8C}|StarCrewMVC\\StarCrewMVC.csproj|C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\starcrewmvc\\uctripulantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B0EDBD-C226-4E0F-8D62-4AD2AE2C1E8C}|StarCrewMVC\\StarCrewMVC.csproj|solutionrelative:starcrewmvc\\uctripulantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B0EDBD-C226-4E0F-8D62-4AD2AE2C1E8C}|StarCrewMVC\\StarCrewMVC.csproj|C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\starcrewmvc\\ucmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90B0EDBD-C226-4E0F-8D62-4AD2AE2C1E8C}|StarCrewMVC\\StarCrewMVC.csproj|solutionrelative:starcrewmvc\\ucmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B0EDBD-C226-4E0F-8D62-4AD2AE2C1E8C}|StarCrewMVC\\StarCrewMVC.csproj|C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\starcrewmvc\\uctripulantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90B0EDBD-C226-4E0F-8D62-4AD2AE2C1E8C}|StarCrewMVC\\StarCrewMVC.csproj|solutionrelative:starcrewmvc\\uctripulantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B0EDBD-C226-4E0F-8D62-4AD2AE2C1E8C}|StarCrewMVC\\StarCrewMVC.csproj|C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\starcrewmvc\\uctripulantes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B0EDBD-C226-4E0F-8D62-4AD2AE2C1E8C}|StarCrewMVC\\StarCrewMVC.csproj|solutionrelative:starcrewmvc\\uctripulantes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B0EDBD-C226-4E0F-8D62-4AD2AE2C1E8C}|StarCrewMVC\\StarCrewMVC.csproj|C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\starcrewmvc\\customui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B0EDBD-C226-4E0F-8D62-4AD2AE2C1E8C}|StarCrewMVC\\StarCrewMVC.csproj|solutionrelative:starcrewmvc\\customui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B0EDBD-C226-4E0F-8D62-4AD2AE2C1E8C}|StarCrewMVC\\StarCrewMVC.csproj|C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\starcrewmvc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B0EDBD-C226-4E0F-8D62-4AD2AE2C1E8C}|StarCrewMVC\\StarCrewMVC.csproj|solutionrelative:starcrewmvc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\StarCrewMVC\\Program.cs",
+              "RelativeDocumentMoniker": "StarCrewMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\StarCrewMVC\\Program.cs",
+              "RelativeToolTip": "StarCrewMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T21:21:55.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ucMenu.cs",
+              "DocumentMoniker": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\StarCrewMVC\\ucMenu.cs",
+              "RelativeDocumentMoniker": "StarCrewMVC\\ucMenu.cs",
+              "ToolTip": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\StarCrewMVC\\ucMenu.cs",
+              "RelativeToolTip": "StarCrewMVC\\ucMenu.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAA4wEYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T23:31:38.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ucMenu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\StarCrewMVC\\ucMenu.Designer.cs",
+              "RelativeDocumentMoniker": "StarCrewMVC\\ucMenu.Designer.cs",
+              "ToolTip": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\StarCrewMVC\\ucMenu.Designer.cs",
+              "RelativeToolTip": "StarCrewMVC\\ucMenu.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:26:22.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ucMenu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\StarCrewMVC\\ucMenu.cs",
+              "RelativeDocumentMoniker": "StarCrewMVC\\ucMenu.cs",
+              "ToolTip": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\StarCrewMVC\\ucMenu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "StarCrewMVC\\ucMenu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:49:48.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ucMisiones.cs",
+              "DocumentMoniker": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\StarCrewMVC\\ucMisiones.cs",
+              "RelativeDocumentMoniker": "StarCrewMVC\\ucMisiones.cs",
+              "ToolTip": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\StarCrewMVC\\ucMisiones.cs",
+              "RelativeToolTip": "StarCrewMVC\\ucMisiones.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAIwE4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T00:33:42.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ucMisiones.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\StarCrewMVC\\ucMisiones.Designer.cs",
+              "RelativeDocumentMoniker": "StarCrewMVC\\ucMisiones.Designer.cs",
+              "ToolTip": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\StarCrewMVC\\ucMisiones.Designer.cs",
+              "RelativeToolTip": "StarCrewMVC\\ucMisiones.Designer.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAHMAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:13:41.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ucMisiones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\StarCrewMVC\\ucMisiones.cs",
+              "RelativeDocumentMoniker": "StarCrewMVC\\ucMisiones.cs",
+              "ToolTip": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\StarCrewMVC\\ucMisiones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "StarCrewMVC\\ucMisiones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T00:33:45.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomUI.cs",
+              "DocumentMoniker": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\StarCrewMVC\\CustomUI.cs",
+              "RelativeDocumentMoniker": "StarCrewMVC\\CustomUI.cs",
+              "ToolTip": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\StarCrewMVC\\CustomUI.cs",
+              "RelativeToolTip": "StarCrewMVC\\CustomUI.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA3wCYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T23:19:57.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\StarCrewMVC\\Form1.cs",
+              "RelativeDocumentMoniker": "StarCrewMVC\\Form1.cs",
+              "ToolTip": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\StarCrewMVC\\Form1.cs",
+              "RelativeToolTip": "StarCrewMVC\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:44:34.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ucHistorial.cs",
+              "DocumentMoniker": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\StarCrewMVC\\ucHistorial.cs",
+              "RelativeDocumentMoniker": "StarCrewMVC\\ucHistorial.cs",
+              "ToolTip": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\StarCrewMVC\\ucHistorial.cs",
+              "RelativeToolTip": "StarCrewMVC\\ucHistorial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:46:01.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ucHistorial.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\StarCrewMVC\\ucHistorial.cs",
+              "RelativeDocumentMoniker": "StarCrewMVC\\ucHistorial.cs",
+              "ToolTip": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\StarCrewMVC\\ucHistorial.cs [Dise\u00F1o]",
+              "RelativeToolTip": "StarCrewMVC\\ucHistorial.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:43:40.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ucHistorial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\StarCrewMVC\\ucHistorial.Designer.cs",
+              "RelativeDocumentMoniker": "StarCrewMVC\\ucHistorial.Designer.cs",
+              "ToolTip": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\StarCrewMVC\\ucHistorial.Designer.cs",
+              "RelativeToolTip": "StarCrewMVC\\ucHistorial.Designer.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowFsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:42:11.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ucTripulantes.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\StarCrewMVC\\ucTripulantes.Designer.cs",
+              "RelativeDocumentMoniker": "StarCrewMVC\\ucTripulantes.Designer.cs",
+              "ToolTip": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\StarCrewMVC\\ucTripulantes.Designer.cs",
+              "RelativeToolTip": "StarCrewMVC\\ucTripulantes.Designer.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAowHUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T20:02:26.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ucTripulantes.cs",
+              "DocumentMoniker": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\StarCrewMVC\\ucTripulantes.cs",
+              "RelativeDocumentMoniker": "StarCrewMVC\\ucTripulantes.cs",
+              "ToolTip": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\StarCrewMVC\\ucTripulantes.cs",
+              "RelativeToolTip": "StarCrewMVC\\ucTripulantes.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAIwNAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T14:28:53.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ucTripulantes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\StarCrewMVC\\ucTripulantes.cs",
+              "RelativeDocumentMoniker": "StarCrewMVC\\ucTripulantes.cs",
+              "ToolTip": "C:\\Users\\Gonzalo\\Desktop\\PROGRAMACION\\Segundo cuatrimestre\\Programacion II\\Programas\\StarCrewMVCV6\\StarCrewMVCV5\\StarCrewMVC\\StarCrewMVC\\ucTripulantes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Gonzalo\\Desktop\\PROGRAMACION\\Segundo cuatrimestre\\Programacion II\\Programas\\StarCrewMVCV6\\StarCrewMVCV5\\StarCrewMVC\\StarCrewMVC\\ucTripulantes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T14:03:09.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\StarCrewMVC\\FormMain.cs",
+              "RelativeDocumentMoniker": "StarCrewMVC\\FormMain.cs",
+              "ToolTip": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\StarCrewMVC\\FormMain.cs",
+              "RelativeToolTip": "StarCrewMVC\\FormMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T13:35:59.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\StarCrewMVC\\FormMain.Designer.cs",
+              "RelativeDocumentMoniker": "StarCrewMVC\\FormMain.Designer.cs",
+              "ToolTip": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\StarCrewMVC\\FormMain.Designer.cs",
+              "RelativeToolTip": "StarCrewMVC\\FormMain.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T13:35:56.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormMain.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\StarCrewMVC\\FormMain.cs",
+              "RelativeDocumentMoniker": "StarCrewMVC\\FormMain.cs",
+              "ToolTip": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\StarCrewMVC\\FormMain.cs [Dise\u00F1o]",
+              "RelativeToolTip": "StarCrewMVC\\FormMain.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T13:35:24.17Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Controlador.cs",
+              "DocumentMoniker": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\Controlador\\Controlador.cs",
+              "RelativeDocumentMoniker": "Controlador\\Controlador.cs",
+              "ToolTip": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\Controlador\\Controlador.cs",
+              "RelativeToolTip": "Controlador\\Controlador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:35:37.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Modelo.cs",
+              "DocumentMoniker": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\Modelo\\Modelo.cs",
+              "RelativeDocumentMoniker": "Modelo\\Modelo.cs",
+              "ToolTip": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\Modelo\\Modelo.cs",
+              "RelativeToolTip": "Modelo\\Modelo.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwGgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:35:16.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

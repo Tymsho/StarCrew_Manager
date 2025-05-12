@@ -1,0 +1,104 @@
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.csproj.AssemblyReference.cache
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.AssemblyInfoInputs.cache
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.AssemblyInfo.cs
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Controlador.deps.json
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Controlador.dll
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Controlador.pdb
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controla.6B62700F.Up2Date
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.dll
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.pdb
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Controlador.deps.json
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Controlador.dll
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Controlador.pdb
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.AssemblyInfoInputs.cache
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.AssemblyInfo.cs
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controla.6B62700F.Up2Date
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.dll
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.pdb
+C:\Users\mcluc\OneDrive\Escritorio\StarCrewMVCV3\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Controlador.deps.json
+C:\Users\mcluc\OneDrive\Escritorio\StarCrewMVCV3\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Controlador.dll
+C:\Users\mcluc\OneDrive\Escritorio\StarCrewMVCV3\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Controlador.pdb
+C:\Users\mcluc\OneDrive\Escritorio\StarCrewMVCV3\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\mcluc\OneDrive\Escritorio\StarCrewMVCV3\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\mcluc\OneDrive\Escritorio\StarCrewMVCV3\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.csproj.AssemblyReference.cache
+C:\Users\mcluc\OneDrive\Escritorio\StarCrewMVCV3\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcluc\OneDrive\Escritorio\StarCrewMVCV3\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.AssemblyInfoInputs.cache
+C:\Users\mcluc\OneDrive\Escritorio\StarCrewMVCV3\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.AssemblyInfo.cs
+C:\Users\mcluc\OneDrive\Escritorio\StarCrewMVCV3\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\mcluc\OneDrive\Escritorio\StarCrewMVCV3\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controla.6B62700F.Up2Date
+C:\Users\mcluc\OneDrive\Escritorio\StarCrewMVCV3\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.dll
+C:\Users\mcluc\OneDrive\Escritorio\StarCrewMVCV3\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.pdb
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV4\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Controlador.deps.json
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV4\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Controlador.dll
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV4\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Controlador.pdb
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV4\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV4\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV4\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.csproj.AssemblyReference.cache
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV4\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV4\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.AssemblyInfoInputs.cache
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV4\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.AssemblyInfo.cs
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV4\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV4\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controla.6B62700F.Up2Date
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV4\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.dll
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV4\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.pdb
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewMVCV4\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Controlador.deps.json
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewMVCV4\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Controlador.dll
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewMVCV4\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Controlador.pdb
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewMVCV4\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewMVCV4\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewMVCV4\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewMVCV4\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewMVCV4\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.AssemblyInfoInputs.cache
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewMVCV4\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.AssemblyInfo.cs
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewMVCV4\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewMVCV4\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controla.6B62700F.Up2Date
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewMVCV4\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.dll
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewMVCV4\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.pdb
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV5\StarCrewMVCV5\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Controlador.deps.json
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV5\StarCrewMVCV5\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Controlador.dll
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV5\StarCrewMVCV5\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Controlador.pdb
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV5\StarCrewMVCV5\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV5\StarCrewMVCV5\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV5\StarCrewMVCV5\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.csproj.AssemblyReference.cache
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV5\StarCrewMVCV5\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV5\StarCrewMVCV5\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.AssemblyInfoInputs.cache
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV5\StarCrewMVCV5\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.AssemblyInfo.cs
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV5\StarCrewMVCV5\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV5\StarCrewMVCV5\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controla.6B62700F.Up2Date
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV5\StarCrewMVCV5\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.dll
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV5\StarCrewMVCV5\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.pdb
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewMVCV6\StarCrewMVCV5\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Controlador.deps.json
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewMVCV6\StarCrewMVCV5\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Controlador.dll
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewMVCV6\StarCrewMVCV5\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Controlador.pdb
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewMVCV6\StarCrewMVCV5\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewMVCV6\StarCrewMVCV5\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewMVCV6\StarCrewMVCV5\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewMVCV6\StarCrewMVCV5\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewMVCV6\StarCrewMVCV5\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.AssemblyInfoInputs.cache
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewMVCV6\StarCrewMVCV5\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.AssemblyInfo.cs
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewMVCV6\StarCrewMVCV5\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewMVCV6\StarCrewMVCV5\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controla.6B62700F.Up2Date
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewMVCV6\StarCrewMVCV5\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.dll
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewMVCV6\StarCrewMVCV5\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.pdb
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV7\StarCrewMVCV7\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Controlador.deps.json
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV7\StarCrewMVCV7\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Controlador.dll
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV7\StarCrewMVCV7\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Controlador.pdb
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV7\StarCrewMVCV7\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV7\StarCrewMVCV7\StarCrewMVC\Controlador\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV7\StarCrewMVCV7\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.csproj.AssemblyReference.cache
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV7\StarCrewMVCV7\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV7\StarCrewMVCV7\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.AssemblyInfoInputs.cache
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV7\StarCrewMVCV7\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.AssemblyInfo.cs
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV7\StarCrewMVCV7\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV7\StarCrewMVCV7\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controla.6B62700F.Up2Date
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV7\StarCrewMVCV7\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.dll
+C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV7\StarCrewMVCV7\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.pdb
