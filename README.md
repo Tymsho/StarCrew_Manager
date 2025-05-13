@@ -11,7 +11,7 @@ Esta aplicación actúa como un gestor/simulador de la tripulación de una nave 
 1. Crea una base de datos en **SQL Server** utilizando el script de query.txt incluido en los archivos del repositorio.
 2. Abre el archivo `Modelo.cs` dentro del proyecto.
 3. Busca la clase `Conexion` y modifica la propiedad `Local` para configurar correctamente tu cadena de conexión con la base de datos local.
-4. Ir a la carpeta `StarCrewMVC`, ubicar el archivo `FormMain.resx`, hacer clic derecho y seleccionar `Propiedades`, aqui tildar la opcion que dice `Desbloquear`, aplicar cambios y aceptar (esto se debe a que windows bloquea el archivo por provenir de internet)
+4. Ir a la carpeta `StarCrewMVC`, ubicar el archivo `FormMain.resx`, hacer clic derecho y seleccionar `Propiedades`, aqui tildar la opcion que dice `Desbloquear`, aplicar cambios y aceptar (esto se debe a que windows bloquea el icono del programa al provenir de la web y considerarlo potencialmente inseguro).
 5. Guarda los cambios y compila el proyecto. ¡Listo para usar!
 
 ---
@@ -35,7 +35,8 @@ Esta sección permite crear y gestionar tripulantes:
 - Selecciona un rol desde el menú desplegable.
 - Haz clic en **Agregar** para registrar un nuevo tripulante.
 - Los tripulantes creados se listarán en la tabla superior.
-- Los tripulantes creados pueden ser actualizados o eliminados (solo si aun no se le asignaron misiones)
+- Los tripulantes creados pueden ser actualizados.
+- Los tripulantes creados pueden ser eliminados solo si aun no se le ha asignado ninguna mision (al contratar su servicio el sindicato no te permite eliminarlos).
 
 ---
 
