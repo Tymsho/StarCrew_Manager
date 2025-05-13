@@ -98,3 +98,14 @@ C:\Users\W10-PC\OneDrive\Escritorio\StarCrewDefinitiveEdition\StarCrewDefinitive
 C:\Users\W10-PC\OneDrive\Escritorio\StarCrewDefinitiveEdition\StarCrewDefinitiveEdition\StarCrewMVC\Modelo\obj\Debug\netstandard2.0\Modelo.csproj.CoreCompileInputs.cache
 C:\Users\W10-PC\OneDrive\Escritorio\StarCrewDefinitiveEdition\StarCrewDefinitiveEdition\StarCrewMVC\Modelo\obj\Debug\netstandard2.0\Modelo.dll
 C:\Users\W10-PC\OneDrive\Escritorio\StarCrewDefinitiveEdition\StarCrewDefinitiveEdition\StarCrewMVC\Modelo\obj\Debug\netstandard2.0\Modelo.pdb
+C:\Users\W10-PC\OneDrive\Documentos\GitHub\StarCrew_Manager\Modelo\bin\Debug\netstandard2.0\Modelo.deps.json
+C:\Users\W10-PC\OneDrive\Documentos\GitHub\StarCrew_Manager\Modelo\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\W10-PC\OneDrive\Documentos\GitHub\StarCrew_Manager\Modelo\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\W10-PC\OneDrive\Documentos\GitHub\StarCrew_Manager\Modelo\obj\Debug\netstandard2.0\Modelo.csproj.AssemblyReference.cache
+C:\Users\W10-PC\OneDrive\Documentos\GitHub\StarCrew_Manager\Modelo\obj\Debug\netstandard2.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10-PC\OneDrive\Documentos\GitHub\StarCrew_Manager\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\W10-PC\OneDrive\Documentos\GitHub\StarCrew_Manager\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfo.cs
+C:\Users\W10-PC\OneDrive\Documentos\GitHub\StarCrew_Manager\Modelo\obj\Debug\netstandard2.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\W10-PC\OneDrive\Documentos\GitHub\StarCrew_Manager\Modelo\obj\Debug\netstandard2.0\Modelo.sourcelink.json
+C:\Users\W10-PC\OneDrive\Documentos\GitHub\StarCrew_Manager\Modelo\obj\Debug\netstandard2.0\Modelo.dll
+C:\Users\W10-PC\OneDrive\Documentos\GitHub\StarCrew_Manager\Modelo\obj\Debug\netstandard2.0\Modelo.pdb

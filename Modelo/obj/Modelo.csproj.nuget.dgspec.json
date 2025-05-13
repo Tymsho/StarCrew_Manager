@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\StarCrewDefinitiveEdition\\StarCrewDefinitiveEdition\\StarCrewMVC\\Modelo\\Modelo.csproj": {}
+    "C:\\Users\\W10-PC\\OneDrive\\Documentos\\GitHub\\StarCrew_Manager\\Modelo\\Modelo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\StarCrewDefinitiveEdition\\StarCrewDefinitiveEdition\\StarCrewMVC\\Modelo\\Modelo.csproj": {
+    "C:\\Users\\W10-PC\\OneDrive\\Documentos\\GitHub\\StarCrew_Manager\\Modelo\\Modelo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\StarCrewDefinitiveEdition\\StarCrewDefinitiveEdition\\StarCrewMVC\\Modelo\\Modelo.csproj",
+        "projectUniqueName": "C:\\Users\\W10-PC\\OneDrive\\Documentos\\GitHub\\StarCrew_Manager\\Modelo\\Modelo.csproj",
         "projectName": "Modelo",
-        "projectPath": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\StarCrewDefinitiveEdition\\StarCrewDefinitiveEdition\\StarCrewMVC\\Modelo\\Modelo.csproj",
+        "projectPath": "C:\\Users\\W10-PC\\OneDrive\\Documentos\\GitHub\\StarCrew_Manager\\Modelo\\Modelo.csproj",
         "packagesPath": "C:\\Users\\W10-PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\StarCrewDefinitiveEdition\\StarCrewDefinitiveEdition\\StarCrewMVC\\Modelo\\obj\\",
+        "outputPath": "C:\\Users\\W10-PC\\OneDrive\\Documentos\\GitHub\\StarCrew_Manager\\Modelo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

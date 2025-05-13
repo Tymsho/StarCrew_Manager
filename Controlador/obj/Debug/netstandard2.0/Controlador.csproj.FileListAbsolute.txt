@@ -128,3 +128,17 @@ C:\Users\W10-PC\OneDrive\Escritorio\StarCrewDefinitiveEdition\StarCrewDefinitive
 C:\Users\W10-PC\OneDrive\Escritorio\StarCrewDefinitiveEdition\StarCrewDefinitiveEdition\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controla.6B62700F.Up2Date
 C:\Users\W10-PC\OneDrive\Escritorio\StarCrewDefinitiveEdition\StarCrewDefinitiveEdition\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.dll
 C:\Users\W10-PC\OneDrive\Escritorio\StarCrewDefinitiveEdition\StarCrewDefinitiveEdition\StarCrewMVC\Controlador\obj\Debug\netstandard2.0\Controlador.pdb
+C:\Users\W10-PC\OneDrive\Documentos\GitHub\StarCrew_Manager\Controlador\bin\Debug\netstandard2.0\Controlador.deps.json
+C:\Users\W10-PC\OneDrive\Documentos\GitHub\StarCrew_Manager\Controlador\bin\Debug\netstandard2.0\Controlador.dll
+C:\Users\W10-PC\OneDrive\Documentos\GitHub\StarCrew_Manager\Controlador\bin\Debug\netstandard2.0\Controlador.pdb
+C:\Users\W10-PC\OneDrive\Documentos\GitHub\StarCrew_Manager\Controlador\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\W10-PC\OneDrive\Documentos\GitHub\StarCrew_Manager\Controlador\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\W10-PC\OneDrive\Documentos\GitHub\StarCrew_Manager\Controlador\obj\Debug\netstandard2.0\Controlador.csproj.AssemblyReference.cache
+C:\Users\W10-PC\OneDrive\Documentos\GitHub\StarCrew_Manager\Controlador\obj\Debug\netstandard2.0\Controlador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10-PC\OneDrive\Documentos\GitHub\StarCrew_Manager\Controlador\obj\Debug\netstandard2.0\Controlador.AssemblyInfoInputs.cache
+C:\Users\W10-PC\OneDrive\Documentos\GitHub\StarCrew_Manager\Controlador\obj\Debug\netstandard2.0\Controlador.AssemblyInfo.cs
+C:\Users\W10-PC\OneDrive\Documentos\GitHub\StarCrew_Manager\Controlador\obj\Debug\netstandard2.0\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\W10-PC\OneDrive\Documentos\GitHub\StarCrew_Manager\Controlador\obj\Debug\netstandard2.0\Controlador.sourcelink.json
+C:\Users\W10-PC\OneDrive\Documentos\GitHub\StarCrew_Manager\Controlador\obj\Debug\netstandard2.0\Controla.6B62700F.Up2Date
+C:\Users\W10-PC\OneDrive\Documentos\GitHub\StarCrew_Manager\Controlador\obj\Debug\netstandard2.0\Controlador.dll
+C:\Users\W10-PC\OneDrive\Documentos\GitHub\StarCrew_Manager\Controlador\obj\Debug\netstandard2.0\Controlador.pdb
