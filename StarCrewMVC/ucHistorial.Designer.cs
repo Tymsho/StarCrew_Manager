@@ -55,14 +55,14 @@
             // dgvMisionActiva
             // 
             this.dgvMisionActiva.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvMisionActiva.Location = new System.Drawing.Point(40, 28);
+            this.dgvMisionActiva.Location = new System.Drawing.Point(78, 28);
             this.dgvMisionActiva.Name = "dgvMisionActiva";
-            this.dgvMisionActiva.Size = new System.Drawing.Size(521, 207);
+            this.dgvMisionActiva.Size = new System.Drawing.Size(658, 207);
             this.dgvMisionActiva.TabIndex = 1;
             // 
             // btnFinMision
             // 
-            this.btnFinMision.Location = new System.Drawing.Point(638, 127);
+            this.btnFinMision.Location = new System.Drawing.Point(758, 130);
             this.btnFinMision.Name = "btnFinMision";
             this.btnFinMision.Size = new System.Drawing.Size(98, 42);
             this.btnFinMision.TabIndex = 2;
@@ -73,7 +73,7 @@
             // lblTituloMisiones
             // 
             this.lblTituloMisiones.AutoSize = true;
-            this.lblTituloMisiones.Location = new System.Drawing.Point(205, 12);
+            this.lblTituloMisiones.Location = new System.Drawing.Point(362, 12);
             this.lblTituloMisiones.Name = "lblTituloMisiones";
             this.lblTituloMisiones.Size = new System.Drawing.Size(107, 13);
             this.lblTituloMisiones.TabIndex = 3;
@@ -91,7 +91,7 @@
             // lblInformacion
             // 
             this.lblInformacion.AutoSize = true;
-            this.lblInformacion.Location = new System.Drawing.Point(585, 96);
+            this.lblInformacion.Location = new System.Drawing.Point(755, 96);
             this.lblInformacion.Name = "lblInformacion";
             this.lblInformacion.Size = new System.Drawing.Size(16, 13);
             this.lblInformacion.TabIndex = 5;
@@ -109,7 +109,7 @@
             this.Controls.Add(this.dgvMisionActiva);
             this.Controls.Add(this.dgvHistorial);
             this.Name = "ucHistorial";
-            this.Size = new System.Drawing.Size(849, 515);
+            this.Size = new System.Drawing.Size(909, 515);
             ((System.ComponentModel.ISupportInitialize)(this.dgvHistorial)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgvMisionActiva)).EndInit();
             this.ResumeLayout(false);

@@ -17,12 +17,14 @@ namespace StarCrewMVC
         {
             InitializeComponent();
             CustomUI.LoadDefaultStyle(this);
+            // Configurar el estilo de los botones
             AplicarHover(btnTripulantes);
             AplicarHover(btnMisiones);
             AplicarHover(btnHistorial);
             AplicarHover(btnSalir);
         }
 
+        // Método para configurar el estilo de los botones
         private void hoverButton(Button button, bool isHovering)
         {
             if (isHovering)
@@ -37,13 +39,14 @@ namespace StarCrewMVC
             }
         }
 
+        // Método para aplicar el efecto hover a los botones
         private void AplicarHover(Button btn)
         {
             btn.MouseEnter += (s, e) => hoverButton(btn, true);
             btn.MouseLeave += (s, e) => hoverButton(btn, false);
         }
 
-
+        // Métodos para cargar los UserControl 
         private void btnTripulantes_Click(object sender, EventArgs e)
         {
             UserControl uc = new ucTripulantes();  
@@ -62,6 +65,7 @@ namespace StarCrewMVC
             ((FormMain)this.ParentForm).CargarUserControl(uc);
         }
 
+        // Método para salir de la aplicación
         private void btnSalir_Click(object sender, EventArgs e)
         {
             var confirmar = AlienMessageBox.Show("¿Estás seguro de querer salir?", "Confirmar salida", MessageBoxButtons.YesNo);

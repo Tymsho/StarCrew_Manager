@@ -17,6 +17,7 @@ namespace StarCrewMVC
 {
     public partial class ucMisiones : UserControl
     {
+        // Variables para almacenar los controladores y datos
         private MisionesController misionesController;
         private AsignacionesController asignacionesController;
         private TripulantesController tripController;
@@ -29,19 +30,23 @@ namespace StarCrewMVC
             InitializeComponent();
             CustomUI.LoadDefaultStyle(this);
 
+            // Inicializar los controladores
             misionesController = new MisionesController();
             asignacionesController = new AsignacionesController();
             tripController = new TripulantesController();
             tripulanteAsignado = new List<Tripulante>();
             listaRoles = new List<Rol>();
             tipoMisiones = new List<TipoMision>();
+            // Inicializar el id de la misión por defecto 
             idMision = 0;
 
+            // Inicializar los DataGridView
             CargarMisiones();
             cargarTripulantesDisponibles();
 
         }
 
+        // Método para configurar el DataGridView de misiones
         private void configurarDataGridViewMisiones()
         {
             dgvMisiones.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.AllCells; // Ajusta al contenido
@@ -54,6 +59,7 @@ namespace StarCrewMVC
             dgvMisiones.AllowUserToResizeColumns = false; // No permitir redimensionar columnas
         }
 
+        // Método para configurar el DataGridView de tripulantes
         private void configurarDataGridViewTripulante()
         {
             dgvTripulanteDisponible.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.AllCells;
@@ -66,14 +72,17 @@ namespace StarCrewMVC
             dgvTripulanteDisponible.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
         }
 
+        // Método para cargar las misiones en el DataGridView
         private void CargarMisiones()
         {
             dgvMisiones.Columns.Clear(); // Limpiar
             configurarDataGridViewMisiones();    // Solo aplica estilo
 
+            // Obtener la lista de misiones y tipos de misión
             var lista = misionesController.ObtenerMisiones();
             tipoMisiones = misionesController.ObtenerTipoMision();
 
+            // Crear la lista de datos para el DataGridView
             var datos = lista.Select(m => new
             {
                 m.Id,
@@ -101,16 +110,19 @@ namespace StarCrewMVC
                 dgvMisiones.Columns.Add(btnSeleccionar);
             }
         }
+        // Método para cargar los tripulantes disponibles en el DataGridView
         private void cargarTripulantesDisponibles()
         {
             listaRoles = tripController.ObtenerRoles();
             var lista = tripController.ObtenerTripulantes();
 
+            // Filtrar los tripulantes ocupados
             var asigns = asignacionesController.ObtenerAsignaciones()
                                                .Where(a => a.Estado == "Pendiente")
                                                .ToList();
             var ocupadosIds = asigns.Select(a => a.TripulanteId).Distinct();
 
+            // Filtrar los tripulantes disponibles
             var disponibles = lista.Where(t => !ocupadosIds.Contains(t.Id)).Select(t => new
             {
                 t.Id,
@@ -120,6 +132,7 @@ namespace StarCrewMVC
             }).ToList();
 
             dgvTripulanteDisponible.DataSource = disponibles;
+            // Aplicar el estilo al DataGridView
             configurarDataGridViewTripulante();
             dgvTripulanteDisponible.Columns["Id"].Visible = false; // Ocultar la columna Id
 
@@ -137,26 +150,31 @@ namespace StarCrewMVC
                 dgvTripulanteDisponible.Columns.Add(btnAsignar);
             }
         }
+
+        // Método para manejar el evento de clic en la celda del DataGridView de tripulantes
         private void DgvTripulanteDisponible_CellClick(object sender, DataGridViewCellEventArgs e)
         {
             if (e.RowIndex >= 0 && e.ColumnIndex >= 0)
             {
                 string columnName = dgvTripulanteDisponible.Columns[e.ColumnIndex].Name;
-
+                // Verificar que la columna es la correcta
                 if (columnName == "btnDgvAsignar")
                 {
+                    
                     int idTripulante = Convert.ToInt32(dgvTripulanteDisponible.Rows[e.RowIndex].Cells["Id"].Value);
-
+                    // Verificar si ya fue asignado
                     if (tripulanteAsignado.Any(t => t.Id == idTripulante))
                     {
                         lblTripulanteAsignado.Text = "Este Tripulante ya fue Asignado. \n\nAsigne Otro";
                         lblConfirmacion.ForeColor = Color.YellowGreen;
                         return;
                     }
-
+                    // Usamos el metodo del controlador para obtener el tripulante por id
                     var tripulante = tripController.ObtenerTripulantePorId(idTripulante);
+                    // Verificar si el tripulante existe
                     if (tripulante != null)
                     {
+                        // Agregar el tripulante a la lista de asignados
                         tripulanteAsignado.Add(tripulante);
                         lblTripulanteAsignado.Text = $"{tripulante.Nombre} Asignado a la Misión.";
                     }
@@ -164,6 +182,7 @@ namespace StarCrewMVC
             }
         }
 
+        // Método para manejar el evento de clic en la celda del DataGridView de misiones
         private void dgvMisiones_CellClick(object sender, DataGridViewCellEventArgs e)
         {
             // Verificar que se hizo clic en una fila válida (no en encabezados)
@@ -190,6 +209,8 @@ namespace StarCrewMVC
                 }
             }
         }
+
+        // Método para limpiar la asignación de tripulantes
         private void limpiarAsignacion()
         {
             tripulanteAsignado.Clear();
@@ -203,8 +224,10 @@ namespace StarCrewMVC
             lblConfirmacion.Location = new System.Drawing.Point(621, 410);
         }
 
+        // Método para manejar el evento de clic en el botón "Asignar"
         private void btnAsignar_Click(object sender, EventArgs e)
         {
+            // Verificar si hay una misión seleccionada y al menos un tripulante asignado
             if (idMision <= 0 && tripulanteAsignado.Count == 0)
             {
                 lblConfirmacion.Text = "Seleccione una misión y al menos un tripulante.";
@@ -212,20 +235,21 @@ namespace StarCrewMVC
                 lblConfirmacion.Location = new System.Drawing.Point(500, 410);
                 return;
             }
+            // Verificar si hay una misión seleccionada
             if (idMision <= 0)
             {
                 lblConfirmacion.Text = "Seleccione una misión primero.";
                 lblConfirmacion.ForeColor = Color.YellowGreen;
                 return;
             }
-
+            // Verificar si hay tripulantes asignados
             if (tripulanteAsignado.Count == 0)
             {
                 lblConfirmacion.Text = "Seleccione al menos un tripulante.";
                 lblConfirmacion.ForeColor = Color.YellowGreen;
                 return;
             }
-
+            // Asignar los tripulantes a la misión
             foreach (var t in tripulanteAsignado)
             {
                 asignacionesController.AsignarTripulanteAMision(t.Id, idMision);
@@ -238,12 +262,14 @@ namespace StarCrewMVC
             cargarTripulantesDisponibles();
         }
 
+        // Método para manejar el evento de carga del UserControl y asignar los eventos de los dataGridView
         private void ucMisiones_Load(object sender, EventArgs e)
         {
             dgvMisiones.CellClick += dgvMisiones_CellClick;
             dgvTripulanteDisponible.CellClick += DgvTripulanteDisponible_CellClick;
         }
 
+        // Método para manejar el evento de clic en el botón "Borrar"
         private void btnBorrar_Click(object sender, EventArgs e)
         {
             limpiarAsignacion();

@@ -1,10 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
-using Modelo;
 using System.Linq;
+using Modelo;  // Importa las clases del modelo (entidades y servicios)
 
 namespace Controlador
 {
+    /// <summary>
+    /// Controlador para gestionar operaciones sobre Tripulantes
+    /// </summary>
     public class TripulantesController
     {
         private readonly TripulantesService tripulantesService;
@@ -12,72 +15,99 @@ namespace Controlador
 
         public TripulantesController()
         {
+            // Inicializa los servicios que comunican con la base de datos
             tripulantesService = new TripulantesService();
             rolesService = new RolesService();
         }
 
+        /// <summary>
+        /// Crea un nuevo tripulante en la base de datos
+        /// </summary>
         public void CrearTripulante(string nombre, int rolId)
         {
+            // Construye el objeto Tripulante
             Tripulante nuevoTripulante = new Tripulante
             {
                 Nombre = nombre,
                 RolId = rolId,
             };
 
+            // Lo persiste usando el servicio
             tripulantesService.AgregarTripulante(nuevoTripulante);
         }
 
+        /// <summary>
+        /// Actualiza datos básicos de un tripulante existente
+        /// </summary>
         public void ActualizarTripulante(int id, string nombre, int rolId)
         {
-            // Primero obtenemos el tripulante actual para no perder datos
+            // Obtiene el tripulante actual para no sobreescribir otros campos
             var tripulante = tripulantesService.ObtenerTripulantePorId(id);
             if (tripulante == null)
-            {
                 throw new Exception("No se encontró el tripulante con ID " + id);
-            }
 
-            // Actualizamos solo los campos que nos interesan
+            // Modifica solo las propiedades deseadas
             tripulante.Nombre = nombre;
             tripulante.RolId = rolId;
 
+            // Persiste los cambios
             tripulantesService.ActualizarTripulante(tripulante);
         }
 
+        /// <summary>
+        /// Devuelve la lista completa de tripulantes
+        /// </summary>
         public List<Tripulante> ObtenerTripulantes()
         {
             return tripulantesService.ObtenerTripulantes();
         }
 
+        /// <summary>
+        /// Devuelve un solo tripulante por su ID
+        /// </summary>
         public Tripulante ObtenerTripulantePorId(int id)
         {
             return tripulantesService.ObtenerTripulantePorId(id);
         }
 
+        /// <summary>
+        /// Elimina un tripulante especificado por ID
+        /// </summary>
         public void EliminarTripulante(int tripulanteId)
         {
             tripulantesService.EliminarTripulante(tripulanteId);
         }
 
+        /// <summary>
+        /// Devuelve la lista de roles disponibles
+        /// </summary>
         public List<Rol> ObtenerRoles()
         {
             return rolesService.ObtenerRoles();
         }
-
     }
 
+    /// <summary>
+    /// Controlador para exponer la lista de roles (si se necesita separarlo)
+    /// </summary>
     public class RolesController
     {
         private RolesService rolesService;
+
         public RolesController()
         {
             rolesService = new RolesService();
         }
+
         public List<Rol> ObtenerRoles()
         {
             return rolesService.ObtenerRoles();
         }
     }
 
+    /// <summary>
+    /// Controlador para gestionar asignaciones de tripulantes a misiones
+    /// </summary>
     public class AsignacionesController
     {
         private AsignacionesService asignacionesService;
@@ -87,6 +117,9 @@ namespace Controlador
             asignacionesService = new AsignacionesService();
         }
 
+        /// <summary>
+        /// Crea una asignación con estado inicial "Pendiente"
+        /// </summary>
         public void AsignarTripulanteAMision(int tripulanteId, int misionId)
         {
             Asignacion asignacion = new Asignacion
@@ -99,11 +132,17 @@ namespace Controlador
             asignacionesService.AgregarAsignacion(asignacion);
         }
 
+        /// <summary>
+        /// Devuelve todas las asignaciones registradas
+        /// </summary>
         public List<Asignacion> ObtenerAsignaciones()
         {
             return asignacionesService.ObtenerAsignaciones();
         }
 
+        /// <summary>
+        /// Elimina una asignación específica por su ID
+        /// </summary>
         public void EliminarAsignacion(int asignacionId)
         {
             var asignacion = new Asignacion { Id = asignacionId };
@@ -111,125 +150,155 @@ namespace Controlador
         }
     }
 
+    /// <summary>
+    /// Controlador principal para la lógica de misiones
+    /// </summary>
     public class MisionesController
     {
-        private TripulantesService tripulantesService;
-        private AsignacionesService asignacionesService;
-        private RequisitosMisionesService requisitosService;
-        private HistorialMisionesService historialService;
-        private MisionesService misionesService;
-        private TiposMisionesService tiposMisionesService;
+        private readonly TripulantesService tripulantesService;
+        private readonly AsignacionesService asignacionesService;
+        private readonly RequisitosMisionesService requisitosService;
+        private readonly HistorialMisionesService historialService;
+        private readonly MisionesService misionesService;
+        private readonly TiposMisionesService tiposMisionesService;
 
         public MisionesController()
         {
+            // Inicializa todos los servicios necesarios
             tripulantesService = new TripulantesService();
             asignacionesService = new AsignacionesService();
             requisitosService = new RequisitosMisionesService();
             historialService = new HistorialMisionesService();
-            misionesService = new MisionesService();           
+            misionesService = new MisionesService();
             tiposMisionesService = new TiposMisionesService();
         }
 
+        /// <summary>
+        /// Devuelve la lista de tipos de misión
+        /// </summary>
         public List<TipoMision> ObtenerTipoMision()
         {
             return tiposMisionesService.ObtenerTiposDeMision();
         }
 
+        /// <summary>
+        /// Devuelve todas las misiones
+        /// </summary>
         public List<Mision> ObtenerMisiones()
         {
             return misionesService.ObtenerMisiones();
         }
 
+        /// <summary>
+        /// Devuelve los requisitos de una misión concreta
+        /// </summary>
         public List<RequisitoMision> ObtenerRequisitosMision(int misionId)
         {
             return requisitosService.ObtenerRequisitosMision(misionId);
         }
 
-
+        /// <summary>
+        /// Finaliza una misión: valida requisitos, registra en historial,
+        /// actualiza estado de asignaciones y sube nivel de tripulantes si hay éxito.
+        /// </summary>
         public void FinalizarMision(int misionId)
         {
-            // Obtener tripulantes asignados
+            // 1. Obtener asignaciones pendientes de esta misión
             List<Asignacion> asignaciones = asignacionesService.ObtenerAsignaciones()
-                                                                .Where(a => a.MisionId == misionId && a.Estado == "Pendiente")
-                                                                .ToList();
+                .Where(a => a.MisionId == misionId && a.Estado == "Pendiente")
+                .ToList();
 
+            // 2. Obtener los tripulantes vinculados a esas asignaciones
             List<Tripulante> tripulantesAsignados = tripulantesService.ObtenerTripulantes()
-                                                                      .Where(t => asignaciones.Any(a => a.TripulanteId == t.Id))
-                                                                      .ToList();
+                .Where(t => asignaciones.Any(a => a.TripulanteId == t.Id))
+                .ToList();
 
-            // Obtener requisitos de la misión
+            // 3. Cargar los requisitos de la misión
             List<RequisitoMision> requisitos = requisitosService.ObtenerRequisitosMision(misionId);
 
-
-
-            // Validar si cumple
+            // 4. Validar cumplimiento de requisitos
             bool cumple = ValidarCumplimientoRequisitos(requisitos, tripulantesAsignados);
-
             string resultado = cumple ? "Exitosa" : "Fallida";
 
-            // Agregar al historial
+            // 5. Guardar el resultado en el historial
             HistorialMision historial = new HistorialMision
             {
                 MisionId = misionId,
                 FechaFinalizacion = DateTime.Now,
                 Resultado = resultado,
-                Detalles = cumple ? "Misión completada exitosamente." : "No se cumplieron los requisitos de la misión."
+                Detalles = cumple
+                                    ? "Misión completada exitosamente."
+                                    : "No se cumplieron los requisitos de la misión."
             };
-
             historialService.AgregarHistorialMision(historial);
 
-            // Actualizar estado de asignaciones
+            // 6. Marcar las asignaciones como procesadas (exitosa o fallida)
             foreach (var asignacion in asignaciones)
             {
-                asignacion.Estado = "Exitosa";
+                asignacion.Estado = resultado;  // "Exitosa" o "Fallida"
                 asignacionesService.ActualizarAsignacion(asignacion);
             }
 
+            // 7. Si fue exitosa, subir nivel de habilidad de cada tripulante (máximo nivel 3)
             if (cumple)
             {
                 foreach (Tripulante t in tripulantesAsignados)
                 {
                     if (t.NivelHabilidad < 3)
-                    {
                         t.NivelHabilidad += 1;
-                    }
-                    
-                    tripulantesService.ActualizarTripulante(t); // Asegúrate de tener este método
+
+                    tripulantesService.ActualizarTripulante(t);
                 }
             }
         }
 
+        /// <summary>
+        /// Devuelve todas las entradas de historial de misiones
+        /// </summary>
         public List<HistorialMision> ConsultarHistorialMisiones()
         {
             return historialService.ObtenerHistorialMisiones();
         }
 
-        public bool ValidarCumplimientoRequisitos(List<RequisitoMision> requisitos, List<Tripulante> tripulantesAsignados)
+        /// <summary>
+        /// Comprueba que se cumplan todos los requisitos (cantidad y habilidad mínima)
+        /// </summary>
+        public bool ValidarCumplimientoRequisitos(
+            List<RequisitoMision> requisitos,
+            List<Tripulante> tripulantesAsignados)
         {
             foreach (var requisito in requisitos)
             {
-                var tripulantesConRol = tripulantesAsignados.Where(t => t.RolId == requisito.RolId).ToList();
+                // Filtra los tripulantes que tienen el rol requerido
+                var tripConRol = tripulantesAsignados
+                                   .Where(t => t.RolId == requisito.RolId)
+                                   .ToList();
 
-                bool cumpleCantidadMinima = tripulantesConRol.Count >= requisito.CantidadMinima;
-                bool cumpleHabilidadMinima = tripulantesConRol.Any(t => t.NivelHabilidad >= requisito.HabilidadMinima);
-
-                // Si algún requisito no se cumple, la función devuelve false
-                if (!cumpleCantidadMinima || !cumpleHabilidadMinima)
-                {
+                // Verifica cantidad mínima
+                if (tripConRol.Count < requisito.CantidadMinima)
                     return false;
-                }
-            }
 
-            // Si todos los requisitos se cumplieron, devuelve true
-            return true;
+                // Verifica habilidad mínima
+                if (!tripConRol.All(t => t.NivelHabilidad >= requisito.HabilidadMinima))
+                    return false;
+            }
+            return true; // Todos los requisitos cumplidos
         }
 
+        /// <summary>
+        /// Devuelve las misiones que aún tienen asignaciones pendientes
+        /// </summary>
         public List<Mision> ConsultarMisionesActivas()
         {
+            // 1. Filtra las asignaciones con estado "Pendiente"
             var asigns = asignacionesService.ObtenerAsignaciones()
-                             .Where(a => a.Estado == "Pendiente")
-                             .ToList();
+                .Where(a => a.Estado == "Pendiente")
+                .ToList();
+
+            // 2. Obtiene los IDs únicos de misión
             var idsAct = asigns.Select(a => a.MisionId).Distinct();
+
+            // 3. Filtra las misiones que coinciden con esos IDs
             var todas = misionesService.ObtenerMisiones();
             return todas.Where(m => idsAct.Contains(m.Id)).ToList();
         }

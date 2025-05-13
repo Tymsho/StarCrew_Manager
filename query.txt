@@ -40,7 +40,7 @@ CREATE TABLE Asignaciones (
     Id INT PRIMARY KEY IDENTITY(1,1),
     TripulanteId INT NOT NULL,
     MisionId INT NOT NULL,
-	Estado NVARCHAR(50) CHECK (Estado IN ('Pendiente', 'Exitosa')) DEFAULT ('Pendiente'),
+	Estado NVARCHAR(50) CHECK (Estado IN ('Pendiente', 'Exitosa','Fallida')) DEFAULT ('Pendiente'),
     FOREIGN KEY (TripulanteId) REFERENCES Tripulantes(Id),
     FOREIGN KEY (MisionId) REFERENCES Misiones(Id)
 );

@@ -63,7 +63,7 @@ namespace Modelo
     //Contiene la cadena de conexión para todas las operaciones con la base de datos.
     public class Conexion
     {
-        public static string Local = "Server=DESKTOP-NKI4B61\\SQLEXPRESS;Database=StarCrew;TrustServerCertificate=True;Trusted_Connection=True;";
+        public static string Local = "Server=;Database=StarCrew;TrustServerCertificate=True;Trusted_Connection=True;";
 
     }
 

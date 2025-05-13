@@ -233,11 +233,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\Modelo\\Modelo.csproj",
+      "projectUniqueName": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\StarCrewDefinitiveEdition\\StarCrewDefinitiveEdition\\StarCrewMVC\\Modelo\\Modelo.csproj",
       "projectName": "Modelo",
-      "projectPath": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\Modelo\\Modelo.csproj",
+      "projectPath": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\StarCrewDefinitiveEdition\\StarCrewDefinitiveEdition\\StarCrewMVC\\Modelo\\Modelo.csproj",
       "packagesPath": "C:\\Users\\W10-PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\Modelo\\obj\\",
+      "outputPath": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\StarCrewDefinitiveEdition\\StarCrewDefinitiveEdition\\StarCrewMVC\\Modelo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -78,3 +78,23 @@ C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV7\StarCrewMVCV7\StarCre
 C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV7\StarCrewMVCV7\StarCrewMVC\Modelo\obj\Debug\netstandard2.0\Modelo.csproj.CoreCompileInputs.cache
 C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV7\StarCrewMVCV7\StarCrewMVC\Modelo\obj\Debug\netstandard2.0\Modelo.dll
 C:\Users\W10-PC\OneDrive\Escritorio\Proyecto\StarCrewMVCV7\StarCrewMVCV7\StarCrewMVC\Modelo\obj\Debug\netstandard2.0\Modelo.pdb
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewDefinitiveEdition\StarCrewMVC\Modelo\bin\Debug\netstandard2.0\Modelo.deps.json
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewDefinitiveEdition\StarCrewMVC\Modelo\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewDefinitiveEdition\StarCrewMVC\Modelo\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewDefinitiveEdition\StarCrewMVC\Modelo\obj\Debug\netstandard2.0\Modelo.csproj.AssemblyReference.cache
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewDefinitiveEdition\StarCrewMVC\Modelo\obj\Debug\netstandard2.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewDefinitiveEdition\StarCrewMVC\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewDefinitiveEdition\StarCrewMVC\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfo.cs
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewDefinitiveEdition\StarCrewMVC\Modelo\obj\Debug\netstandard2.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewDefinitiveEdition\StarCrewMVC\Modelo\obj\Debug\netstandard2.0\Modelo.dll
+C:\Users\Gonzalo\Desktop\PROGRAMACION\Segundo cuatrimestre\Programacion II\Programas\StarCrewDefinitiveEdition\StarCrewMVC\Modelo\obj\Debug\netstandard2.0\Modelo.pdb
+C:\Users\W10-PC\OneDrive\Escritorio\StarCrewDefinitiveEdition\StarCrewDefinitiveEdition\StarCrewMVC\Modelo\bin\Debug\netstandard2.0\Modelo.deps.json
+C:\Users\W10-PC\OneDrive\Escritorio\StarCrewDefinitiveEdition\StarCrewDefinitiveEdition\StarCrewMVC\Modelo\bin\Debug\netstandard2.0\Modelo.dll
+C:\Users\W10-PC\OneDrive\Escritorio\StarCrewDefinitiveEdition\StarCrewDefinitiveEdition\StarCrewMVC\Modelo\bin\Debug\netstandard2.0\Modelo.pdb
+C:\Users\W10-PC\OneDrive\Escritorio\StarCrewDefinitiveEdition\StarCrewDefinitiveEdition\StarCrewMVC\Modelo\obj\Debug\netstandard2.0\Modelo.csproj.AssemblyReference.cache
+C:\Users\W10-PC\OneDrive\Escritorio\StarCrewDefinitiveEdition\StarCrewDefinitiveEdition\StarCrewMVC\Modelo\obj\Debug\netstandard2.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W10-PC\OneDrive\Escritorio\StarCrewDefinitiveEdition\StarCrewDefinitiveEdition\StarCrewMVC\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\W10-PC\OneDrive\Escritorio\StarCrewDefinitiveEdition\StarCrewDefinitiveEdition\StarCrewMVC\Modelo\obj\Debug\netstandard2.0\Modelo.AssemblyInfo.cs
+C:\Users\W10-PC\OneDrive\Escritorio\StarCrewDefinitiveEdition\StarCrewDefinitiveEdition\StarCrewMVC\Modelo\obj\Debug\netstandard2.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\W10-PC\OneDrive\Escritorio\StarCrewDefinitiveEdition\StarCrewDefinitiveEdition\StarCrewMVC\Modelo\obj\Debug\netstandard2.0\Modelo.dll
+C:\Users\W10-PC\OneDrive\Escritorio\StarCrewDefinitiveEdition\StarCrewDefinitiveEdition\StarCrewMVC\Modelo\obj\Debug\netstandard2.0\Modelo.pdb

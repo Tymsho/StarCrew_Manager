@@ -15,6 +15,9 @@ namespace StarCrewMVC
 {
     public partial class ucTripulantes : UserControl
     {
+
+        // Controladores
+        private AsignacionesController asignController;
         private TripulantesController tripController;
         private RolesController rolesController;
         private List<Rol> listaRoles;
@@ -25,6 +28,8 @@ namespace StarCrewMVC
             InitializeComponent();
             CustomUI.LoadDefaultStyle(this);
 
+            // Inicializar el controlador
+            asignController = new AsignacionesController();
             tripController = new TripulantesController();
             rolesController = new RolesController();
             listaRoles = new List<Rol>();
@@ -35,9 +40,9 @@ namespace StarCrewMVC
             dgvTripulantes.CellClick += DgvTripulantes_CellClick;
         }
 
+        // Método para configurar el DataGridView
         private void ConfigurarDataGridView()
         {
-
             // Eliminar la columna de selección 
             dgvTripulantes.RowHeadersVisible = false;
             // Desactivar la selección de filas completas
@@ -68,7 +73,7 @@ namespace StarCrewMVC
                 dgvTripulantes.Columns.Add(btnEliminar);
             }
         }
-
+        // Método para cargar los roles en el ComboBox
         private void CargarRoles()
         {
             cmbRoles.DataSource = rolesController.ObtenerRoles();
@@ -76,6 +81,7 @@ namespace StarCrewMVC
             cmbRoles.ValueMember = "Id";
         }
 
+        // Método para cargar los tripulantes en el DataGridView
         private void CargarTripulantes()
         {
             listaRoles = tripController.ObtenerRoles();
@@ -93,7 +99,7 @@ namespace StarCrewMVC
 
             ConfigurarDataGridView();
         }
-
+        // Método para manejar el evento CellClick del DataGridView
         private void DgvTripulantes_CellClick(object sender, DataGridViewCellEventArgs e)
         {
             // Verificar que se hizo clic en una fila válida (no en encabezados)
@@ -120,9 +126,7 @@ namespace StarCrewMVC
                 }
             }
         }
-
-
-
+        // Método para editar un tripulante
         private void EditarTripulante(int idTripulante)
         {
             // Obtener el tripulante por ID
@@ -140,33 +144,41 @@ namespace StarCrewMVC
                 tripulanteIdEnEdicion = idTripulante;
             }
         }
-
+        // Método para eliminar un tripulante
         private void EliminarTripulante(int idTripulante)
         {
-            // Pedir confirmación antes de eliminar
+            // Validar si el tripulante tiene asignaciones antes de eliminar
+            var asignaciones = asignController.ObtenerAsignaciones()
+                                    .Where(a => a.TripulanteId == idTripulante)
+                                    .ToList();
+
+            if (asignaciones.Any())
+            {
+                AlienMessageBox.Show("No se puede eliminar el tripulante porque tiene asignaciones.",
+                    "Operación no permitida", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
+            // Pedir confirmación
             if (AlienMessageBox.Show("¿Está seguro de eliminar este tripulante?", "Confirmar eliminación",
                 MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
             {
                 try
                 {
-                    // Eliminar el tripulante usando el controlador
                     tripController.EliminarTripulante(idTripulante);
-
-                    // Recargar la lista de tripulantes
                     CargarTripulantes();
 
                     AlienMessageBox.Show("Tripulante eliminado correctamente.", "Éxito",
                         MessageBoxButtons.OK, MessageBoxIcon.Information);
-
                 }
                 catch (Exception ex)
                 {
-                    lblAgregar.Text = $"Error al eliminar el tripulante: " +  ex.Message + " Error";
-                        
+                    lblAgregar.Text = $"Error al eliminar el tripulante: {ex.Message}";
                 }
             }
         }
 
+        // Método para manejar el evento de clic en el botón "Agregar" o "Actualizar"
         private void btnAgregar_Click(object sender, EventArgs e)
         {
             // Validación del nombre
@@ -209,6 +221,7 @@ namespace StarCrewMVC
             CargarTripulantes();
         }
 
+        // Metodos para manejar el evento de entrada y salida del TextBox
         private void txtNombre_Enter(object sender, EventArgs e)
         {
             if (txtNombre.Text == "Nombre...")
@@ -216,7 +229,6 @@ namespace StarCrewMVC
                 txtNombre.Text = "";
             }
         }
-
         private void txtNombre_Leave(object sender, EventArgs e)
         {
             if (string.IsNullOrWhiteSpace(txtNombre.Text))

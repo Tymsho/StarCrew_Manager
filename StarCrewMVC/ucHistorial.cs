@@ -15,46 +15,56 @@ namespace StarCrewMVC
 {
     public partial class ucHistorial : UserControl
     {
+        // Variable para almacenar el ID de la misión activa seleccionada
         private int misionActivaSeleccionadaId = 0;
 
         private MisionesController misionesController;
         public ucHistorial()
         {
             InitializeComponent();
+            // Establecer el estilo predeterminado
             CustomUI.LoadDefaultStyle(this);
 
+            //  Inicializar el controlador
             misionesController = new MisionesController();
 
+            // Inicializar los DataGridView
             CargarHistorial();
             CargarMisionesActivas();
 
+            // Evento para el botón de finalizar misión
             dgvMisionActiva.CellClick += dgvMisionActiva_CellClick;
         }
 
+        // Método para configurar el DataGridView del historial
         private void ConfigurarDataGridView()
         {
             dgvHistorial.RowHeadersVisible = false;
             dgvHistorial.SelectionMode = DataGridViewSelectionMode.CellSelect;
             dgvHistorial.MultiSelect = false;
             dgvHistorial.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.AllCells;
-            // no modificar altura filas
             dgvHistorial.AllowUserToResizeRows = false;
-            // ocultar columna id
             dgvHistorial.Columns["MisionId"].Visible = false;
         }
 
+        // Método para configurar el DataGridView de misiones activas
         private void ConfigurarDataGridViewActivas()
         {
+            // Configuraciones basicas
             dgvMisionActiva.RowHeadersVisible = false;
             dgvMisionActiva.SelectionMode = DataGridViewSelectionMode.CellSelect;
             dgvMisionActiva.MultiSelect = false;
             dgvMisionActiva.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.AllCells;
             dgvMisionActiva.AllowUserToResizeColumns = false;
-            // ocultar columna id
+            // Ocultar columnas innecesarias a la vista
             dgvMisionActiva.Columns["Id"].Visible = false;
-            // ocultar columna titulo
-            dgvMisionActiva.Columns["Titulo"].Visible = false;
+            dgvMisionActiva.Columns["TipoMisionId"].Visible = false;
+            dgvMisionActiva.Columns["Dificultad"].Visible = false;
+            dgvMisionActiva.Columns["Requisitos"].Visible = false;
+
         }
+
+        // Método para cargar las misiones activas en el DataGridView
         private void CargarMisionesActivas()
         {
             dgvMisionActiva.Columns.Clear(); // Limpia columnas anteriores
@@ -78,7 +88,7 @@ namespace StarCrewMVC
             ConfigurarDataGridViewActivas(); // Configura el DataGridView después de cargar los datos
         }
 
-
+        // Método para cargar el historial de misiones en el DataGridView
         private void CargarHistorial()
         {
             var historial = misionesController.ConsultarHistorialMisiones();
@@ -96,6 +106,7 @@ namespace StarCrewMVC
             ConfigurarDataGridView();
         }
 
+        // Evento para manejar el clic en el botón "Seleccionar" de la misión activa
         private void dgvMisionActiva_CellClick(object sender, DataGridViewCellEventArgs e)
         {
             if (e.RowIndex >= 0 && dgvMisionActiva.Columns[e.ColumnIndex].Name == "btnSeleccionar")
@@ -112,8 +123,10 @@ namespace StarCrewMVC
             }
         }
 
+        // Evento para manejar el clic en el botón "Finalizar Misión"
         private void btnFinMision_Click(object sender, EventArgs e)
         {
+            // Verificar si hay una misión activa seleccionada
             if (misionActivaSeleccionadaId == 0)
             {
                 lblInformacion.Text = "Seleccioná una misión activa para finalizar.";

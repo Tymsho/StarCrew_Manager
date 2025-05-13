@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EYvWFa6K8TQ=",
+  "dgSpecHash": "KqGBYS4Jvjw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\Proyecto\\StarCrewMVCV7\\StarCrewMVCV7\\StarCrewMVC\\Modelo\\Modelo.csproj",
+  "projectFilePath": "C:\\Users\\W10-PC\\OneDrive\\Escritorio\\StarCrewDefinitiveEdition\\StarCrewDefinitiveEdition\\StarCrewMVC\\Modelo\\Modelo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\W10-PC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\W10-PC\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

@@ -8,18 +8,21 @@ using System.Windows.Forms;
 
 namespace StarCrewMVC
 {
+    // Clase para aplicar un estilo personalizado a los controles de la aplicación
     public static class CustomUI
     {
+        // Método para cargar el estilo predeterminado en un formulario
         public static void LoadDefaultStyle(Form actualForm)
         {
             ApplyStyle(actualForm);
         }
-
+        // Método para cargar el estilo predeterminado en un UserControl
         public static void LoadDefaultStyle(UserControl userControl)
         {
             ApplyStyle(userControl);
         }
 
+        // Método donde configurar el estilo de los controles
         private static void ApplyStyle(Control parent)
         {
             Color primary = Color.Black;
@@ -69,6 +72,7 @@ namespace StarCrewMVC
                 }
             }
         }
+        // Método para aplicar el estilo a un DataGridView
         private static void ApplyDataGridViewStyle(DataGridView dgv)
         {
             Color primary = Color.Black;
