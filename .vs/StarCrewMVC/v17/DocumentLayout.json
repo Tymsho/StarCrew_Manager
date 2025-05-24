@@ -3,8 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\W10-PC\\OneDrive\\Documentos\\GitHub\\StarCrew_Manager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3ACD9164-EAF9-4A78-8D6C-3024C93F23FF}|Modelo\\Modelo.csproj|c:\\users\\w10-pc\\onedrive\\documentos\\github\\starcrew_manager\\modelo\\modelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ACD9164-EAF9-4A78-8D6C-3024C93F23FF}|Modelo\\Modelo.csproj|solutionrelative:modelo\\modelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3ACD9164-EAF9-4A78-8D6C-3024C93F23FF}|Modelo\\Modelo.csproj|c:\\users\\w10-pc\\onedrive\\documentos\\github\\starcrew_manager\\modelo\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACD9164-EAF9-4A78-8D6C-3024C93F23FF}|Modelo\\Modelo.csproj|solutionrelative:modelo\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{410268CE-F5E6-489E-BDBB-F6744E8293B9}|Controlador\\Controlador.csproj|c:\\users\\w10-pc\\onedrive\\documentos\\github\\starcrew_manager\\controlador\\asignacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{410268CE-F5E6-489E-BDBB-F6744E8293B9}|Controlador\\Controlador.csproj|solutionrelative:controlador\\asignacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{410268CE-F5E6-489E-BDBB-F6744E8293B9}|Controlador\\Controlador.csproj|c:\\users\\w10-pc\\onedrive\\documentos\\github\\starcrew_manager\\controlador\\misionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{410268CE-F5E6-489E-BDBB-F6744E8293B9}|Controlador\\Controlador.csproj|solutionrelative:controlador\\misionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{410268CE-F5E6-489E-BDBB-F6744E8293B9}|Controlador\\Controlador.csproj|c:\\users\\w10-pc\\onedrive\\documentos\\github\\starcrew_manager\\controlador\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{410268CE-F5E6-489E-BDBB-F6744E8293B9}|Controlador\\Controlador.csproj|solutionrelative:controlador\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{410268CE-F5E6-489E-BDBB-F6744E8293B9}|Controlador\\Controlador.csproj|c:\\users\\w10-pc\\onedrive\\documentos\\github\\starcrew_manager\\controlador\\tripulantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{410268CE-F5E6-489E-BDBB-F6744E8293B9}|Controlador\\Controlador.csproj|solutionrelative:controlador\\tripulantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACD9164-EAF9-4A78-8D6C-3024C93F23FF}|Modelo\\Modelo.csproj|c:\\users\\w10-pc\\onedrive\\documentos\\github\\starcrew_manager\\modelo\\tripulante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACD9164-EAF9-4A78-8D6C-3024C93F23FF}|Modelo\\Modelo.csproj|solutionrelative:modelo\\tripulante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACD9164-EAF9-4A78-8D6C-3024C93F23FF}|Modelo\\Modelo.csproj|c:\\users\\w10-pc\\onedrive\\documentos\\github\\starcrew_manager\\modelo\\requisitomision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACD9164-EAF9-4A78-8D6C-3024C93F23FF}|Modelo\\Modelo.csproj|solutionrelative:modelo\\requisitomision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACD9164-EAF9-4A78-8D6C-3024C93F23FF}|Modelo\\Modelo.csproj|c:\\users\\w10-pc\\onedrive\\documentos\\github\\starcrew_manager\\modelo\\historialmision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACD9164-EAF9-4A78-8D6C-3024C93F23FF}|Modelo\\Modelo.csproj|solutionrelative:modelo\\historialmision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACD9164-EAF9-4A78-8D6C-3024C93F23FF}|Modelo\\Modelo.csproj|c:\\users\\w10-pc\\onedrive\\documentos\\github\\starcrew_manager\\modelo\\asignacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACD9164-EAF9-4A78-8D6C-3024C93F23FF}|Modelo\\Modelo.csproj|solutionrelative:modelo\\asignacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACD9164-EAF9-4A78-8D6C-3024C93F23FF}|Modelo\\Modelo.csproj|c:\\users\\w10-pc\\onedrive\\documentos\\github\\starcrew_manager\\modelo\\tipomision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACD9164-EAF9-4A78-8D6C-3024C93F23FF}|Modelo\\Modelo.csproj|solutionrelative:modelo\\tipomision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACD9164-EAF9-4A78-8D6C-3024C93F23FF}|Modelo\\Modelo.csproj|c:\\users\\w10-pc\\onedrive\\documentos\\github\\starcrew_manager\\modelo\\mision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACD9164-EAF9-4A78-8D6C-3024C93F23FF}|Modelo\\Modelo.csproj|solutionrelative:modelo\\mision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ACD9164-EAF9-4A78-8D6C-3024C93F23FF}|Modelo\\Modelo.csproj|c:\\users\\w10-pc\\onedrive\\documentos\\github\\starcrew_manager\\modelo\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ACD9164-EAF9-4A78-8D6C-3024C93F23FF}|Modelo\\Modelo.csproj|solutionrelative:modelo\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{90B0EDBD-C226-4E0F-8D62-4AD2AE2C1E8C}|StarCrewMVC\\StarCrewMVC.csproj|C:\\Users\\W10-PC\\OneDrive\\Documentos\\GitHub\\StarCrew_Manager\\starcrewmvc\\ucmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,24 +74,157 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Modelo.cs",
-              "DocumentMoniker": "C:\\Users\\W10-PC\\OneDrive\\Documentos\\GitHub\\StarCrew_Manager\\Modelo\\Modelo.cs",
-              "RelativeDocumentMoniker": "Modelo\\Modelo.cs",
-              "ToolTip": "C:\\Users\\W10-PC\\OneDrive\\Documentos\\GitHub\\StarCrew_Manager\\Modelo\\Modelo.cs",
-              "RelativeToolTip": "Modelo\\Modelo.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAA8wEEAAAB2AAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "C:\\Users\\W10-PC\\OneDrive\\Documentos\\GitHub\\StarCrew_Manager\\Controlador\\RolesController.cs",
+              "RelativeDocumentMoniker": "Controlador\\RolesController.cs",
+              "ToolTip": "C:\\Users\\W10-PC\\OneDrive\\Documentos\\GitHub\\StarCrew_Manager\\Controlador\\RolesController.cs",
+              "RelativeToolTip": "Controlador\\RolesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T02:32:08.916Z",
+              "WhenOpened": "2025-05-24T19:08:23.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AsignacionesController.cs",
+              "DocumentMoniker": "C:\\Users\\W10-PC\\OneDrive\\Documentos\\GitHub\\StarCrew_Manager\\Controlador\\AsignacionesController.cs",
+              "RelativeDocumentMoniker": "Controlador\\AsignacionesController.cs",
+              "ToolTip": "C:\\Users\\W10-PC\\OneDrive\\Documentos\\GitHub\\StarCrew_Manager\\Controlador\\AsignacionesController.cs",
+              "RelativeToolTip": "Controlador\\AsignacionesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T19:07:57.027Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "MisionesController.cs",
+              "DocumentMoniker": "C:\\Users\\W10-PC\\OneDrive\\Documentos\\GitHub\\StarCrew_Manager\\Controlador\\MisionesController.cs",
+              "RelativeDocumentMoniker": "Controlador\\MisionesController.cs",
+              "ToolTip": "C:\\Users\\W10-PC\\OneDrive\\Documentos\\GitHub\\StarCrew_Manager\\Controlador\\MisionesController.cs",
+              "RelativeToolTip": "Controlador\\MisionesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T19:07:20.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TripulantesController.cs",
+              "DocumentMoniker": "C:\\Users\\W10-PC\\OneDrive\\Documentos\\GitHub\\StarCrew_Manager\\Controlador\\TripulantesController.cs",
+              "RelativeDocumentMoniker": "Controlador\\TripulantesController.cs",
+              "ToolTip": "C:\\Users\\W10-PC\\OneDrive\\Documentos\\GitHub\\StarCrew_Manager\\Controlador\\TripulantesController.cs",
+              "RelativeToolTip": "Controlador\\TripulantesController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwFcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T19:07:02.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\W10-PC\\OneDrive\\Documentos\\GitHub\\StarCrew_Manager\\Modelo\\Conexion.cs",
+              "RelativeDocumentMoniker": "Modelo\\Conexion.cs",
+              "ToolTip": "C:\\Users\\W10-PC\\OneDrive\\Documentos\\GitHub\\StarCrew_Manager\\Modelo\\Conexion.cs",
+              "RelativeToolTip": "Modelo\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T19:04:46.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tripulante.cs",
+              "DocumentMoniker": "C:\\Users\\W10-PC\\OneDrive\\Documentos\\GitHub\\StarCrew_Manager\\Modelo\\Tripulante.cs",
+              "RelativeDocumentMoniker": "Modelo\\Tripulante.cs",
+              "ToolTip": "C:\\Users\\W10-PC\\OneDrive\\Documentos\\GitHub\\StarCrew_Manager\\Modelo\\Tripulante.cs",
+              "RelativeToolTip": "Modelo\\Tripulante.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAowH8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T19:03:35.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RequisitoMision.cs",
+              "DocumentMoniker": "C:\\Users\\W10-PC\\OneDrive\\Documentos\\GitHub\\StarCrew_Manager\\Modelo\\RequisitoMision.cs",
+              "RelativeDocumentMoniker": "Modelo\\RequisitoMision.cs",
+              "ToolTip": "C:\\Users\\W10-PC\\OneDrive\\Documentos\\GitHub\\StarCrew_Manager\\Modelo\\RequisitoMision.cs",
+              "RelativeToolTip": "Modelo\\RequisitoMision.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwDgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T19:02:18.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HistorialMision.cs",
+              "DocumentMoniker": "C:\\Users\\W10-PC\\OneDrive\\Documentos\\GitHub\\StarCrew_Manager\\Modelo\\HistorialMision.cs",
+              "RelativeDocumentMoniker": "Modelo\\HistorialMision.cs",
+              "ToolTip": "C:\\Users\\W10-PC\\OneDrive\\Documentos\\GitHub\\StarCrew_Manager\\Modelo\\HistorialMision.cs",
+              "RelativeToolTip": "Modelo\\HistorialMision.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwEUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T19:01:16.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Asignacion.cs",
+              "DocumentMoniker": "C:\\Users\\W10-PC\\OneDrive\\Documentos\\GitHub\\StarCrew_Manager\\Modelo\\Asignacion.cs",
+              "RelativeDocumentMoniker": "Modelo\\Asignacion.cs",
+              "ToolTip": "C:\\Users\\W10-PC\\OneDrive\\Documentos\\GitHub\\StarCrew_Manager\\Modelo\\Asignacion.cs",
+              "RelativeToolTip": "Modelo\\Asignacion.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAGAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T18:59:47.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TipoMision.cs",
+              "DocumentMoniker": "C:\\Users\\W10-PC\\OneDrive\\Documentos\\GitHub\\StarCrew_Manager\\Modelo\\TipoMision.cs",
+              "RelativeDocumentMoniker": "Modelo\\TipoMision.cs",
+              "ToolTip": "C:\\Users\\W10-PC\\OneDrive\\Documentos\\GitHub\\StarCrew_Manager\\Modelo\\TipoMision.cs",
+              "RelativeToolTip": "Modelo\\TipoMision.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T18:58:45.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Mision.cs",
+              "DocumentMoniker": "C:\\Users\\W10-PC\\OneDrive\\Documentos\\GitHub\\StarCrew_Manager\\Modelo\\Mision.cs",
+              "RelativeDocumentMoniker": "Modelo\\Mision.cs",
+              "ToolTip": "C:\\Users\\W10-PC\\OneDrive\\Documentos\\GitHub\\StarCrew_Manager\\Modelo\\Mision.cs",
+              "RelativeToolTip": "Modelo\\Mision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T18:57:08.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\W10-PC\\OneDrive\\Documentos\\GitHub\\StarCrew_Manager\\Modelo\\Rol.cs",
+              "RelativeDocumentMoniker": "Modelo\\Rol.cs",
+              "ToolTip": "C:\\Users\\W10-PC\\OneDrive\\Documentos\\GitHub\\StarCrew_Manager\\Modelo\\Rol.cs",
+              "RelativeToolTip": "Modelo\\Rol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T18:54:40.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "FormMain.Designer.cs",
               "DocumentMoniker": "C:\\Users\\W10-PC\\OneDrive\\Documentos\\GitHub\\StarCrew_Manager\\StarCrewMVC\\FormMain.Designer.cs",
               "RelativeDocumentMoniker": "StarCrewMVC\\FormMain.Designer.cs",
@@ -59,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "ucMenu.Designer.cs",
               "DocumentMoniker": "C:\\Users\\W10-PC\\OneDrive\\Documentos\\GitHub\\StarCrew_Manager\\StarCrewMVC\\ucMenu.Designer.cs",
               "RelativeDocumentMoniker": "StarCrewMVC\\ucMenu.Designer.cs",
@@ -71,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "ucMenu.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\W10-PC\\OneDrive\\Documentos\\GitHub\\StarCrew_Manager\\StarCrewMVC\\ucMenu.cs",
               "RelativeDocumentMoniker": "StarCrewMVC\\ucMenu.cs",
@@ -82,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "FormMain.cs",
               "DocumentMoniker": "C:\\Users\\W10-PC\\OneDrive\\Documentos\\GitHub\\StarCrew_Manager\\StarCrewMVC\\FormMain.cs",
               "RelativeDocumentMoniker": "StarCrewMVC\\FormMain.cs",
